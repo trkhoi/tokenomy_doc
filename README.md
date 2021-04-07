@@ -210,7 +210,7 @@ Headers:
 ### Request
 Headers:
 - `Key`: `key` in API login
-- `tokenomy_uat_earn_token`: `earn_token` from API login
+- `tokenomy_uat_earn_token`: `earn_token` from API login \
 Body:
 - 4 types of loyalty: `bronze`, `silver`, `gold`, `premium`
 ```json
